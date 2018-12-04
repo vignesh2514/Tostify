@@ -12,5 +12,10 @@ public class Ding {
 
     }
 
+    public static void l(Context c, String message) {
 
+        Toast.makeText(c, message, Toast.LENGTH_LONG).show();
+
+
+    }
 }
