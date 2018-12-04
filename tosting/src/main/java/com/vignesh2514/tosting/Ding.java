@@ -16,6 +16,5 @@ public class Ding {
 
         Toast.makeText(c, message, Toast.LENGTH_LONG).show();
 
-
     }
 }
