@@ -16,5 +16,5 @@ Add it in your root build.gradle at the end of repositories:
 Step 2. Add the dependency
 
 	dependencies {
-	        implementation 'com.github.vignesh2514:Tostify:Tag'
+	        implementation 'com.github.vignesh2514:Tostify:'paste-jitpack-version here''
 	}
