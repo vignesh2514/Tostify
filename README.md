@@ -21,14 +21,17 @@ Step 2. Add the dependency
 
 
 
-How to Use??
+# How to Use??
 
  Sammae Easyy!!!!!
  
- For Short Time 
+ # For Short Time 
  
  use     Ding.s(this,"hello")
  
- For Long time 
+ # For Long time 
  
  use     Ding.l(this,"hello")
+ 
+ 
+ Ooooo la laaaaa!
