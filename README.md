@@ -18,3 +18,17 @@ Step 2. Add the dependency
 	dependencies {
 	        implementation 'com.github.vignesh2514:Tostify:1.0.3'
 	}
+
+
+
+How to Use??
+
+ Sammae Easyy!!!!!
+ 
+ For Short Time 
+ 
+ use     Ding.s(this,"hello")
+ 
+ For Long time 
+ 
+ use     Ding.l(this,"hello")
