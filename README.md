@@ -1,8 +1,12 @@
 # Tostify
 An Easy method for Showing toast in your Project Build in Kotlin
-To this project into your build:
+
+
+
 
 [![](https://jitpack.io/v/vignesh2514/Tostify.svg)](https://jitpack.io/#vignesh2514/Tostify)
+
+# How to Use??
 
 Step 1. Add the JitPack repository to your build file gradle
 Add it in your root build.gradle at the end of repositories:
@@ -21,7 +25,6 @@ Step 2. Add the dependency
 
 
 
-# How to Use??
 
  Sammae Easyy!!!!!
  
