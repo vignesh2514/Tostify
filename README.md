@@ -1,5 +1,5 @@
 # Tostify
-An Easy method for Showing toast in your Projet Build in Kotlin
+An Easy method for Showing toast in your Project Build in Kotlin
 To this project into your build:
 
 [![](https://jitpack.io/v/vignesh2514/Tostify.svg)](https://jitpack.io/#vignesh2514/Tostify)
