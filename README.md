@@ -30,11 +30,11 @@ Step 2. Add the dependency
  
  # For Short Time 
  
- use     Ding.s(this,"hello")
+     Ding.s(this,"hello")
  
  # For Long time 
  
- use     Ding.l(this,"hello")
+    Ding.l(this,"hello")
  
  
  Ooooo la laaaaa!
