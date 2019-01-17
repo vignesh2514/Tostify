@@ -26,7 +26,7 @@ Step 2. Add the dependency
 
 
 
- Sammae Easyy!!!!!
+ Quite Easier than ever!!!!!
  
  # For Short Time 
  
